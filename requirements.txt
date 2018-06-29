@@ -1,0 +1,17 @@
+Architecture
+
+backend:
+- nodejs
+- expressjs
+- mongodb
+
+frontend:
+- reactjs
+- redux
+
+You need to have mongodb installed
+To run mongodb on mac:
+mongod
+
+to run mongodb on windows:
+C:\>"C:\Program Files\MongoDB\Server\3.6\bin\mongod.exe"
